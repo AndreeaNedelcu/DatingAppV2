@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "omnisharp.autoStart": true,
+    "omnisharp.disableMSBuildDiagnosticWarning": true,
+    "omnisharp.enableImportCompletion": true
+}
